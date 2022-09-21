@@ -1,0 +1,15 @@
+{
+  "name": "rutas",
+  "version": "1.0.0",
+  "description": "pruebas de rutas",
+  "main": "rutas.js",
+  "scripts": {
+    "dev": "nodemon rutas.js"
+  },
+  "author": "Juan Melgar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
